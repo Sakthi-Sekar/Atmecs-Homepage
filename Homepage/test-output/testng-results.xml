@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-10-03T12:34:22Z" name="Default suite" finished-at="2019-10-03T12:35:14Z" duration-ms="51658">
+    <groups>
+    </groups>
+    <test started-at="2019-10-03T12:34:22Z" name="Default test" finished-at="2019-10-03T12:35:14Z" duration-ms="51658">
+      <class name="com.atmecs.homepage.testscript.HomePage">
+        <test-method signature="setup()[pri:1, instance:com.atmecs.homepage.testscript.HomePage@1725dc0f]" started-at="2019-10-03T12:34:22Z" name="setup" finished-at="2019-10-03T12:34:42Z" duration-ms="19835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="homePage()[pri:2, instance:com.atmecs.homepage.testscript.HomePage@1725dc0f]" started-at="2019-10-03T12:34:42Z" name="homePage" finished-at="2019-10-03T12:34:49Z" duration-ms="7519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method signature="moreInfo()[pri:3, instance:com.atmecs.homepage.testscript.HomePage@1725dc0f]" started-at="2019-10-03T12:34:49Z" name="moreInfo" finished-at="2019-10-03T12:35:14Z" duration-ms="24268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- moreInfo -->
+      </class> <!-- com.atmecs.homepage.testscript.HomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
